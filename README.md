@@ -1,5 +1,5 @@
 # ml_project
-Language Detector
+# **Language Detector**
 This project is a language detection tool built using machine learning techniques. It utilizes a Naive Bayes classifier combined with text vectorization to accurately identify the language of a given input text.
 
 Key Components:
